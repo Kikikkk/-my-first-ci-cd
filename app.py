@@ -1,4 +1,3 @@
-# app.py
 import hashlib
 import subprocess
 from flask import Flask, request
